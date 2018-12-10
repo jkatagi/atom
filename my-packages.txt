@@ -1,0 +1,8 @@
+atom-beautify@0.33.4
+atom-ide-ui@0.13.0
+autocomplete-paths@2.12.2
+hyperclick@0.1.5
+js-hyperclick@1.15.0
+language-vue-component@0.5.0
+vue-hyperclick@0.2.0
+
